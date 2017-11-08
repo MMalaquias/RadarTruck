@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.boaviagem.radartruck.MainActivity" >
+    <item android:id="@+id/action_calcular"
+        android:title="@string/action_calcular"
+        android:orderInCategory="100"
+        app:showAsAction="never" />'
+
+    <item android:id="@+id/action_visualizar"
+        android:title="@string/action_visualizar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
